@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import Option from '../components/Option/Option';
+import Option from '../Option/Option';
 import './CourseQuestion.css'
 
 const CourseQuestion = ({question}) => {
