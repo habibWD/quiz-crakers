@@ -1,0 +1,10 @@
+.courses{
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.courses-area{
+    margin-top: 150px;
+    margin-left: 110px;
+}
